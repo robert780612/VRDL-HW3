@@ -46,7 +46,7 @@ Detectron2 supports standard COCO and Pascal VOC format, so there is no need any
 Set the configuration in the *config.py* (Model config, Dataset config...). You can find the detail explaination in this [website](https://detectron2.readthedocs.io/modules/config.html#config-references).
 
 ## Training
-To train models, run following commands. All training log and trained model are saved in "output" directory.
+To train models, run following commands. All training log and trained model is saved in "output" directory.
 ```
 $ python train.py
 ```
