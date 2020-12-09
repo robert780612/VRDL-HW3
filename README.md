@@ -37,7 +37,7 @@ The requirements are listed as below
 
 ## Dataset Preparation
 ### Download Official Image
-Download and extract Pascal VOC dataset
+Download and extract Pascal VOC dataset. Put them into "./pascal voc"
 
 ### Prepare Images
 Detectron2 supports standard COCO and Pascal VOC format, so there is no need any preprocessing.
